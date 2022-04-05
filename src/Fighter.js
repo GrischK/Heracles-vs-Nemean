@@ -7,4 +7,6 @@ class Fighter {
         this.dexterity = dexterity;
         this.life = life;
     }
-}/* Fighter class definition */
+}
+
+module.exports = Fighter/* Fighter class definition */
